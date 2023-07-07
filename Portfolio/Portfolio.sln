@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33808.371
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSite1", "http://localhost:8080", "{1C8E0FFE-FA27-471E-9E16-02B80CE1D4CC}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_8080"
+		Debug.AspNetCompiler.PhysicalPath = "C:\Users\VGpc\source\repos\Portfolio\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_8080\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_8080"
+		Release.AspNetCompiler.PhysicalPath = "C:\Users\VGpc\source\repos\Portfolio\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_8080\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "C:\Users\VGpc\source\repos\Portfolio\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C8E0FFE-FA27-471E-9E16-02B80CE1D4CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C8E0FFE-FA27-471E-9E16-02B80CE1D4CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {977ABA9B-E3B1-44F7-BA1B-FC9348A60EA8}
+	EndGlobalSection
+EndGlobal
