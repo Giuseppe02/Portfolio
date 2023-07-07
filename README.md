@@ -1,5 +1,8 @@
 # Portfolio
 Personal Website
+# Modifiche:
+- il branch main rinominato in Old-project (da usare in caso eccezionale!)
+- il branch New-project è stato settato come branch di default
 # Modifiche effettuate alle 2:04 del 7 Luglio:
 - Risistemazione cartelle del proggetto
 - Rimozione file inutili
