@@ -6,3 +6,6 @@ Personal Website
 # Modifiche effettuate alle 2:04 del 7 Luglio:
 - Risistemazione cartelle del proggetto
 - Rimozione file inutili
+# Modifiche effettuale al 4 Agosto:
+- Modifica bootstrap - Locale (old) --> Online (new)
+- nuovo branch (main) per le modifiche del nuovo progetto
