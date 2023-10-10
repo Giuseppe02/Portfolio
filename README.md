@@ -9,3 +9,8 @@ Personal Website
 # Modifiche effettuale al 4 Agosto:
 - Modifica bootstrap - Locale (old) --> Online (new)
 - nuovo branch (main) per le modifiche del nuovo progetto
+# Modifiche al 11 Ottobre 2023:
+- Ridisegnata l'intera pagina home
+- Rimosse tutte le cartelle bootstrap e file inutili comprese le immagini
+
+
